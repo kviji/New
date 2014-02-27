@@ -20,7 +20,6 @@ public class MainActivity extends Activity {
 		toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0);
 		toast.setDuration(Toast.LENGTH_LONG);
 		final int i=20;
-		final int j=20;
 		final int k=30;
 		
 		final LayoutInflater inflater =(LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);  
